@@ -1,0 +1,12 @@
+body {
+  background-color: #f0a3f0;
+}
+
+textarea {
+  max-width: 100%;
+}
+
+#notes-list {
+  list-style-type: none;
+  padding-left: 0;
+}
